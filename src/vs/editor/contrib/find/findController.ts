@@ -403,6 +403,7 @@ export class FindController extends CommonFindController implements IFindControl
 	}
 }
 
+
 export class StartFindAction extends EditorAction {
 
 	constructor() {
